@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(133, 86, 29);
+}
+
+.first{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+.head{
+    text-align: center;
+    border-bottom: 1px solid yellow;
+}
+
+.Myfoto{
+    display: inline-block;
+    
+}
+
+.Myinfo{
+    display: inline-block;
+    margin: 10px;
+}
+
+.general{
+    display: flex;
+    justify-content: center;
+}
+
+.MyFIO{
+    text-align: center;
+}
+
+.Mywork{
+    margin: 10px;
+    text-align: justify;
+}
+
+.Myoffer{
+    margin: 10px;
+    text-align: justify;
+}
